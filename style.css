@@ -1,3 +1,6 @@
+/* font-family: 'Nunito', sans-serif;
+font-family: 'Raleway', sans-serif; */
+
 body {
     margin: 0;
     padding: 0;
@@ -13,8 +16,20 @@ body {
     height: 85px;
 }
 
-.bg-white {
+.bg_white {
     background-color: #fff;
+}
+
+.title {
+    font-family: 'Raleway', sans-serif;
+}
+
+.color_blue {
+    color: #1B3970;
+}
+
+.color_orange {
+    color: #F28004;
 }
 
 .menu {
@@ -25,7 +40,7 @@ body {
     width:150px;
 }
 
-.teste {
+.carousel {
     height: calc(100vh - 85px);
 }
 
