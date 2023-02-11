@@ -5,7 +5,27 @@ body {
 }
 
 .container {
-    width: 1280px;
+    width: 1080px;
     max-width: 1080px;
+}
+
+.anchor {
+    height: 85px;
+}
+
+.bg-white {
+    background-color: #fff;
+}
+
+.menu {
+    height: 85px
+}
+
+.logo {
+    width:150px;
+}
+
+.teste {
+    height: calc(100vh - 85px);
 }
 
