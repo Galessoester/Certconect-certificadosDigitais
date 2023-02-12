@@ -11,6 +11,7 @@ body {
 .container {
     width: 1080px;
     max-width: 1080px;
+    margin: 0 auto;
 }
 
 .anchor {
@@ -38,6 +39,10 @@ body {
     font-weight: 400;
 }
 
+.bg_blue {
+    background-color: #1B3970;
+}
+
 .color_blue {
     color: #1B3970;
 }
@@ -60,7 +65,7 @@ body {
 }
 
 .quadro_venda {
-    border: #1B3970 1px solid;
+    border: #1B3970 2px solid;
     border-radius: 5px;
     width: 1000px;
     height: 450px;
