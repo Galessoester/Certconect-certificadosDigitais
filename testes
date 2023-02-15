@@ -1,0 +1,63 @@
+<nav class="navbar navbar-expand-md navbar-light d-flex flex-column container p-0 w-navbar my-0">
+    <div class="container-fluid justify-content-lg-center">
+        <div class="container row justify-content-lg-center p-2 hide_desktop bg-white">
+            <div class="col-auto container-fluid text-center my-4">
+                <a class="nav-link" href="/">
+                    <img src="https://certifast.com.br/img/home/novo/certifast-logo.png"
+                        alt="Logo Certifast Certificados Digitais" title="Logo Certifast Certificados Digitais" />
+                </a>
+            </div>
+            <div class="col-auto container-fluid text-center my-2 p-3 shadow rounded">
+                <img src="https://certifast.com.br/img/home/novo/seu_certificado.png"
+                    alt="Certificado Digital com o melhor preço do mercado"
+                    title="Certificado Digital com o melhor preço do mercado" />
+            </div>
+        </div>
+        <div class="hide_mobile my-4 mx-1">
+            <a class="nav-link" href="/">
+                <img src="https://certifast.com.br/img/home/novo/certifast-logo.png" width="260" height=""
+                    alt="Logo Certifast Certificados Digitais" title="Logo Certifast Certificados Digitais" />
+            </a>
+        </div>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
+            aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </div>
+    <div class="container-fluid px-0">
+        <div class="collapse navbar-collapse container-fluid menu_bar" id="navbarNavAltMarkup">
+            <div class="navbar-nav container-fluid row">
+                <div class="col-md-auto container-fluid">
+                    <a class="nav-link" href="/certificados-digitais/">
+                        <span class="menu_item">Certificados Digitais</span>
+                    </a>
+                </div>
+                <div class="col-md-auto container-fluid">
+                    <a class="nav-link" href="/certificados-digitais/outros-produtos/">
+                        <span class="menu_item">Outros Produtos</span>
+                    </a>
+                </div>
+                <div class="col-md-auto container-fluid">
+                    <a class="nav-link" href="/renove-seu-certificado-digital/">
+                        <span class="menu_item">Renovação</span>
+                    </a>
+                </div>
+                <div class="col-md-auto container-fluid">
+                    <a class="nav-link" href="/agende-sua-validacao/">
+                        <span class="menu_item">Agendamento</span>
+                    </a>
+                </div>
+                <div class="col-md-auto container-fluid">
+                    <a class="nav-link" href="/pontos-de-atendimento/">
+                        <span class="menu_item">Atendimento</span>
+                    </a>
+                </div>
+                <div class="col-md-auto container-fluid">
+                    <a class="nav-link" href="/contato/">
+                        <span class="menu_item">Contato</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>

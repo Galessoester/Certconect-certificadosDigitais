@@ -12,6 +12,7 @@ body {
     width: 1080px;
     max-width: 1080px;
     margin: 0 auto;
+    padding: 0 25px
 }
 
 .anchor {
@@ -20,7 +21,6 @@ body {
 }
 
 .line {
-    width: 900px;
     border: #1B3970 2px solid;
     margin: 0 auto;
 }
@@ -67,9 +67,18 @@ body {
 .quadro_venda {
     border: #1B3970 2px solid;
     border-radius: 5px;
-    width: 1000px;
+    /* width: 1000px; */
     height: 450px;
     margin: 0 auto;
+}
+
+.card {
+    border: none;
+    border-radius: 5px;
+}
+
+.card-body {
+    padding: 1.5rem;
 }
 
 .shadow {
