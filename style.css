@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-    width: 1080px;
+    /* width: 1080px; */
     max-width: 1080px;
     margin: 0 auto;
     padding: 0 25px
@@ -27,6 +27,10 @@ body {
 
 .bg_white {
     background-color: #fff;
+}
+
+.bg-dark {
+    background-color: #47525E;
 }
 
 .title {
@@ -61,14 +65,14 @@ body {
 
 .carousel {
     margin-top: 50px;
-    height: calc(100vh - 80px);
+    max-height: calc(100vh - 80px);
 }
 
 .quadro_venda {
     border: #1B3970 2px solid;
     border-radius: 5px;
     /* width: 1000px; */
-    height: 450px;
+    /* height: 450px; */
     margin: 0 auto;
 }
 
