@@ -77,9 +77,9 @@ li {
     color: #47525E;
 }
 
-/* .menu {
-    height: 85px; 
-} */
+.lista {
+    line-height: 32px;
+}
 
 .logo {
     width: 150px;
