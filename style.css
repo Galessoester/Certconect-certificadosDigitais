@@ -105,6 +105,10 @@ li {
     max-height: calc(100vh - 80px);
 }
 
+.carousel-item {
+    height: 100vh ;
+}
+
 .quadro_venda {
     border: #1B3970 2px solid;
     border-radius: 5px;
